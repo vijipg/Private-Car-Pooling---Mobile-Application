@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CARPOOLING</string>
+    <string name="choose_whether_you_are_a_driver_passenger">CHOOSE WHETHER YOU ARE A DRIVER/PASSENGER</string>
+    <string name="driver">DRIVER</string>
+    <string name="passenger">PASSENGER</string>
+    <string name="ok">OK</string>
+    <string name="hai">hai</string>
+    <string name="new_user_register">New User-Register</string>
+    <string name="login">LOGIN</string>
+    <string name="email_id">EMAIL ID</string>
+    <string name="welcome">WELCOME</string>
+    <string name="password">PASSWORD</string>
+    <string name="ratings">Ratings :</string>
+    <string name="title_activity_dridet">dridet</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map1">Map</string>
+
+</resources>
